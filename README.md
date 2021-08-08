@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vasanth47
+- 👋 Hi, I’m Vasant
 - 👀 I’m interested in JavaScript Currently and learning path towards React.!!
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on FullStack Development.
