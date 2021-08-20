@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vasant
 - 👀 I’m interested in JavaScript Currently and learning path towards React.!!
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript/React
 - 💞️ I’m looking to collaborate on FullStack Development.
 - 📫 How to reach me vasanthakumarit47@gmail.com
 
