@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Vasant
 - 👀 I’m interested in JavaScript Currently and learning path towards React.!!
-- 🌱 I’m currently learning JavaScript/React
+- 🌱 I’m currently learning Anugular!!
 - 💞️ I’m looking to collaborate on FullStack Development.
-- 📫 How to reach me vasanthakumarit47@gmail.com
+- 📫 Reach me on email reachvasanthakumar@gmail.com
 
 <!---
 vasanth47/vasanth47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
